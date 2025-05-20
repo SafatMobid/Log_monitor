@@ -1,0 +1,4 @@
+2025-05-19 10:01:23 INFO Starting application
+2025-05-19 10:02:11 ERROR Connection to database failed
+2025-05-19 10:03:07 WARNING Memory usage high
+2025-05-19 10:05:10 INFO Application stopped
