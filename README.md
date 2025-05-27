@@ -8,4 +8,7 @@ Prints alerts to the console
 Logs activity to monitor.log
 
 to be added
+
 email alerts
+Autorun on startup
+Autotrack track new logs
