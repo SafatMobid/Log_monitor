@@ -9,6 +9,6 @@ Logs activity to monitor.log
 
 to be added
 
-email alerts
+- email alerts
 - Autorun on startup
 - Autotrack track new logs
